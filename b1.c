@@ -8,7 +8,7 @@
 
 typedef struct
 {
-  char Hoten[29];
+ 	char Hoten[29];
 	unsigned int Tuoi;
 	char DiaChi[100];
 	unsigned int GioiTinh;
